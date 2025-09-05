@@ -15,7 +15,7 @@ To set up and run the website, follow these steps:
 
 For any inquiries, please contact us at:
 
-- Email: support@smartmediaplayer.online
+- Email: smartmediaplayer6@gmail.com
 ## License
 
 This project is licensed under the MIT License.
