@@ -1,6 +1,6 @@
 # Company Website
 
-This project is a simple website for SmartersPlayer LLC. It includes essential information about the company, such as its name, a brief description, and contact details.
+This project is a simple website for SmartMediaPlayer LLC. It includes essential information about the company, such as its name, a brief description, and contact details.
 
 ## Getting Started
 
